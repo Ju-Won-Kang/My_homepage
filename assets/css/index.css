@@ -40,9 +40,6 @@ nav a{
     text-decoration: none;
     color: #a6a6a6;
 }
-nav li{
-    gap: -10px;
-}
 nav>ul{
     display: flex;
     flex-direction: row;
